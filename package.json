@@ -1,0 +1,15 @@
+{
+  "name": "my-vue-tool",
+  "version": "0.0.2",
+  "description": "A tool for my vue app",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "keywords": [
+    "vue"
+  ],
+  "bin": {
+    "vue-project": "./lib/index.js"
+  },
+  "author": "spemoon",
+  "license": "MIT"
+}
