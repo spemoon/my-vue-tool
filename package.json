@@ -1,7 +1,7 @@
 {
   "name": "my-vue-tool",
-  "version": "0.0.3",
-  "description": "A tool for my vue app",
+  "version": "0.0.4",
+  "description": "A tool for my vue app in windows",
   "main": "./lib/index.js",
   "scripts": {},
   "keywords": [
