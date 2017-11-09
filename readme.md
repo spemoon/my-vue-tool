@@ -9,7 +9,11 @@
 ## 执行
 
 ```
+
+    npm install my-vue-tool -g
+
     vue-project project_name template_name
+
 ```
 > template_name 缺省的话是 newdesign
 
