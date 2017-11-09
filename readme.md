@@ -3,20 +3,15 @@
 ## 主要功能
 
 > * 创建新项目模块，复制相关的文件到指定的目录
-
 > * 修改新项目的配置信息
-
 > * 添加参数，适配模板
 
-## 流程图
+## 执行
 
-```flow
-st=>start: Start
-op=>operation: vue-project project_name template_name
-e=>end
-
-st->op->e
 ```
+    vue-project project_name template_name
+```
+> template_name 缺省的话是 newdesign
 
 ## todo
 
